@@ -1,16 +1,171 @@
-## Hi there 👋
+# Hi 👋, I'm Shubh Beniwal
 
-<!--
-**shubhbeniwal/shubhbeniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI Engineer | Software Developer | Generative AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Software+Developer;Building+GenAI+Applications;RAG+Systems+%26+Multi-Agent+AI;NLP+%7C+Voice+AI+%7C+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science & Engineering (AI & Robotics) — VIT Chennai
+
+💼 Software Engineer (SDET) @ LTIMindtree
+
+📍 Bengaluru, India
+
+🧠 Passionate about:
+
+* Generative AI
+* Large Language Models (LLMs)
+* RAG Architectures
+* Multi-Agent Systems
+* NLP & Voice AI
+* Full-Stack Development
+
+🌱 Currently Building:
+
+* MemoryOS
+* Multi-Agent AI Research Assistant
+* AI Resume Analyzer
+* AI Voice Interviewer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+
+### Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+
+### Testing & Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![REST Assured](https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge)
+
+---
+
+## 🌟 Featured Projects
+
+### 🧠 MemoryOS
+
+Personal AI Memory System with:
+
+* Long-Term Memory
+* Semantic Search
+* RAG Architecture
+* Document Intelligence
+* Conversational Context
+
+### 📄 AI Resume Analyzer
+
+AI-powered ATS & Resume Evaluation Platform:
+
+* Resume Scoring
+* Missing Skills Detection
+* Job Description Matching
+* PDF Report Generation
+
+### 🤖 Multi-Agent AI Research Assistant
+
+Production-grade AI Research Platform:
+
+* Planner Agent
+* Technical Research Agent
+* Business Research Agent
+* Fact Checker Agent
+* Report Generator
+
+### 🎤 AI Voice Interviewer
+
+Speech-to-Speech AI Interview Platform:
+
+* Whisper Transcription
+* Voice Interaction
+* AI Evaluation
+* Interview Analytics
+
+---
+
+## 📜 Certifications
+
+✅ AWS Certified Cloud Practitioner
+
+✅ Google Cloud Digital Leader
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhbeniwal&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhbeniwal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhbeniwal&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shubh-beniwal/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/shubhbeniwal" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🚀 Open to Opportunities
+
+Interested in:
+
+* AI Engineer Roles
+* Generative AI Development
+* LLM Applications
+* Software Engineering
+* Machine Learning Systems
+
+---
+
+⭐ Building intelligent systems one project at a time.
