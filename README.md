@@ -133,29 +133,27 @@ Speech-to-Speech AI Interview Platform:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhbeniwal&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=shubhbeniwal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhbeniwal&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhbeniwal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shubh-beniwal/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubh-beniwal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/shubhbeniwal" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/shubhbeniwal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="mailto:your-email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
