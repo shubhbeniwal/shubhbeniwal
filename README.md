@@ -120,23 +120,25 @@ A personal AI memory system that combines **Long-Term Memory**, **Retrieval-Augm
 
 ---
 
-### 📄 AI Resume Analyzer
+### 🎤 InterviewAI – Voice-Powered AI Mock Interview Platform
 
-An AI-powered ATS resume evaluation platform that analyzes resumes, simulates recruiter feedback, and provides actionable improvement suggestions.
+A speech-to-speech AI interview platform that conducts technical interviews using voice interaction and evaluates responses in real time.
 
 **Highlights**
 
-* 📊 ATS Resume Scoring
-* 🎯 Job Description Matching
-* 🧠 Missing Skills Detection
-* 📄 AI Feedback Report
-* 📥 PDF Report Generation
+* 🎙 Whisper Speech Recognition
+* 🔊 AI Voice Interaction
+* 🤖 Dynamic Interview Generation
+* 📈 AI-Based Evaluation
+* 📊 Interview Analytics
 
-🔗 **GitHub:** https://github.com/shubhbeniwal/ai-resume-analyzer-1
+🔗 **Live Demo:** https://ai-voice-interviewer-pzefhizbrfhm97otf8ajpw.streamlit.app/
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/ai-voice-interviewer
 
 ---
 
-### 🤖 Multi-Agent AI Research Assistant
+### 🤖 ResearchGPT – Multi-Agent AI Research Assistant 
 
 A production-style multi-agent research platform where specialized AI agents collaborate to generate comprehensive technical reports.
 
@@ -149,23 +151,28 @@ A production-style multi-agent research platform where specialized AI agents col
 * ✔ Fact Checker Agent
 * 📝 Report Generator Agent
 
+
+🔗 **Live Demo:** https://multi-agent-ai-deep-research-5elammefdpxnujsrjzjw9s.streamlit.app/
+
 🔗 **GitHub:** https://github.com/shubhbeniwal/multi-agent-ai-deep-research
 
 ---
 
-### 🎤 AI Voice Interviewer
+### 📄 CareerLens AI – Resume Intelligence & Job Match Analyzer
 
-A speech-to-speech AI interview platform that conducts technical interviews using voice interaction and evaluates responses in real time.
+An AI-powered ATS resume evaluation platform that analyzes resumes, simulates recruiter feedback, and provides actionable improvement suggestions.
 
 **Highlights**
 
-* 🎙 Whisper Speech Recognition
-* 🔊 AI Voice Interaction
-* 🤖 Dynamic Interview Generation
-* 📈 AI-Based Evaluation
-* 📊 Interview Analytics
+* 📊 ATS Resume Scoring
+* 🎯 Job Description Matching
+* 🧠 Missing Skills Detection
+* 📄 AI Feedback Report
+* 📥 PDF Report Generation
 
-🔗 **GitHub:** https://github.com/shubhbeniwal/ai-voice-interviewer
+🔗 **Live Demo:** https://ai-resume-analyzer-1-a5jjvpodez9o3vcu8ofpfr.streamlit.app/#ai-resume-analyzer
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/ai-resume-analyzer-1
 
 ---
 
