@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Applied+AI;Building+AI-Powered+Products;RAG+Systems+%26+Multi-Agent+AI;NLP+%7C+Voice+AI+%7C+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=500&color=60A5FA&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+AI-Powered+Products;Python+%7C+React+%7C+FastAPI;RAG+Systems+and+Applied+AI;Shipping+Reliable+and+Scalable+Products" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,46 +27,76 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubh-beniwal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/shubhbeniwal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
+<h3 align="center">Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### AI / ML
+<h3 align="center">AI / ML</h3>
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
+</p>
 
-### Frameworks & Tools
+<h3 align="center">Frameworks & Tools</h3>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge" />
+</p>
 
-### Cloud & DevOps
+<h3 align="center">Cloud & DevOps</h3>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins" />
+</p>
 
-### Testing & Automation
+<h3 align="center">Testing & Automation</h3>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
-![REST Assured](https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge" />
+</p>
 
 ---
 
@@ -153,32 +183,15 @@ A speech-to-speech AI interview platform that conducts technical interviews usin
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhbeniwal&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📈 Contribution Activity
+
+[![Shubh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhbeniwal&theme=tokyo-night)](https://github.com/shubhbeniwal)
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhbeniwal/shubhbeniwal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shubh-beniwal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/shubhbeniwal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:your-email">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
 ---
@@ -195,5 +208,9 @@ Interested in:
 * Full-Stack Development
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhbeniwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ⭐ Building intelligent systems one project at a time.
