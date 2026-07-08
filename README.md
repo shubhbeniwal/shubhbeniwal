@@ -1,9 +1,9 @@
-# Hi 👋, I'm Shubh Beniwal
-
-<h3 align="center">AI Engineer | Software Developer | Generative AI Enthusiast</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f00707b-a633-4b0b-a63d-6eb329a06faf" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Software+Developer;Building+GenAI+Applications;RAG+Systems+%26+Multi-Agent+AI;NLP+%7C+Voice+AI+%7C+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Applied+AI;Building+AI-Powered+Products;RAG+Systems+%26+Multi-Agent+AI;NLP+%7C+Voice+AI+%7C+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,25 +12,18 @@
 
 🎓 B.Tech Computer Science & Engineering (AI & Robotics) — VIT Chennai
 
-💼 Software Engineer (SDET) @ LTIMindtree
+💼 Software Engineer @ LTIMindtree
 
 📍 Bengaluru, India
 
 🧠 Passionate about:
 
-* Generative AI
+* Applied AI
 * Large Language Models (LLMs)
 * RAG Architectures
 * Multi-Agent Systems
 * NLP & Voice AI
 * Full-Stack Development
-
-🌱 Currently Building:
-
-* MemoryOS
-* Multi-Agent AI Research Assistant
-* AI Resume Analyzer
-* AI Voice Interviewer
 
 ---
 
@@ -58,7 +51,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge)
 
 ### Cloud & DevOps
 
@@ -80,13 +74,19 @@
 
 ### 🧠 MemoryOS
 
-Personal AI Memory System with:
+Personal AI Memory System featuring:
 
 * Long-Term Memory
 * Semantic Search
 * RAG Architecture
 * Document Intelligence
 * Conversational Context
+
+🔗 Live Demo: https://memory-os-delta.vercel.app/
+
+🔗 Repository: https://github.com/shubhbeniwal/ai-personal-knowledge-base
+
+---
 
 ### 📄 AI Resume Analyzer
 
@@ -97,6 +97,8 @@ AI-powered ATS & Resume Evaluation Platform:
 * Job Description Matching
 * PDF Report Generation
 
+---
+
 ### 🤖 Multi-Agent AI Research Assistant
 
 Production-grade AI Research Platform:
@@ -105,7 +107,9 @@ Production-grade AI Research Platform:
 * Technical Research Agent
 * Business Research Agent
 * Fact Checker Agent
-* Report Generator
+* Report Generator Agent
+
+---
 
 ### 🎤 AI Voice Interviewer
 
@@ -133,7 +137,7 @@ Speech-to-Speech AI Interview Platform:
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhbeniwal&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=shubhbeniwal&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -145,11 +149,11 @@ Speech-to-Speech AI Interview Platform:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shubh-beniwal/" target="blank">
+<a href="https://www.linkedin.com/in/shubh-beniwal/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://github.com/shubhbeniwal" target="blank">
+<a href="https://github.com/shubhbeniwal" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 </p>
@@ -161,10 +165,11 @@ Speech-to-Speech AI Interview Platform:
 Interested in:
 
 * AI Engineer Roles
-* Generative AI Development
+* Applied AI Development
 * LLM Applications
 * Software Engineering
 * Machine Learning Systems
+* Full-Stack Development
 
 ---
 
