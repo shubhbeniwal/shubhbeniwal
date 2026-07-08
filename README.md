@@ -74,53 +74,69 @@
 
 ### 🧠 MemoryOS
 
-Personal AI Memory System featuring:
+A personal AI memory system that combines **Long-Term Memory**, **Retrieval-Augmented Generation (RAG)**, semantic document search, and conversational context into one intelligent knowledge assistant.
 
-* Long-Term Memory
-* Semantic Search
-* RAG Architecture
-* Document Intelligence
-* Conversational Context
+**Highlights**
 
-🔗 Live Demo: https://memory-os-delta.vercel.app/
+* 🧠 Long-Term Memory
+* 📄 Document Intelligence
+* 🔎 Semantic Vector Search
+* 💬 Context-Aware Conversations
+* ⚡ Streaming AI Responses
 
-🔗 Repository: https://github.com/shubhbeniwal/ai-personal-knowledge-base
+🔗 **Live Demo:** https://memory-os-delta.vercel.app/
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/ai-personal-knowledge-base
 
 ---
 
 ### 📄 AI Resume Analyzer
 
-AI-powered ATS & Resume Evaluation Platform:
+An AI-powered ATS resume evaluation platform that analyzes resumes, simulates recruiter feedback, and provides actionable improvement suggestions.
 
-* Resume Scoring
-* Missing Skills Detection
-* Job Description Matching
-* PDF Report Generation
+**Highlights**
+
+* 📊 ATS Resume Scoring
+* 🎯 Job Description Matching
+* 🧠 Missing Skills Detection
+* 📄 AI Feedback Report
+* 📥 PDF Report Generation
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/ai-resume-analyzer-1
 
 ---
 
 ### 🤖 Multi-Agent AI Research Assistant
 
-Production-grade AI Research Platform:
+A production-style multi-agent research platform where specialized AI agents collaborate to generate comprehensive technical reports.
 
-* Planner Agent
-* Technical Research Agent
-* Business Research Agent
-* Fact Checker Agent
-* Report Generator Agent
+**Agent Workflow**
+
+* 🧠 Planner Agent
+* 🔍 Technical Research Agent
+* 💼 Business Research Agent
+* 🚀 Future Trends Agent
+* ✔ Fact Checker Agent
+* 📝 Report Generator Agent
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/multi-agent-ai-deep-research
 
 ---
 
 ### 🎤 AI Voice Interviewer
 
-Speech-to-Speech AI Interview Platform:
+A speech-to-speech AI interview platform that conducts technical interviews using voice interaction and evaluates responses in real time.
 
-* Whisper Transcription
-* Voice Interaction
-* AI Evaluation
-* Interview Analytics
+**Highlights**
 
----
+* 🎙 Whisper Speech Recognition
+* 🔊 AI Voice Interaction
+* 🤖 Dynamic Interview Generation
+* 📈 AI-Based Evaluation
+* 📊 Interview Analytics
+
+🔗 **GitHub:** https://github.com/shubhbeniwal/ai-voice-interviewer
+
 
 ## 📜 Certifications
 
