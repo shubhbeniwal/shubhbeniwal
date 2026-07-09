@@ -198,7 +198,7 @@ An AI-powered ATS resume evaluation platform that analyzes resumes, simulates re
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhbeniwal/shubhbeniwal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/shubhbeniwal/shubhbeniwal/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
